@@ -1,0 +1,8 @@
+C:\Users\Diák\Desktop\FD_13_S\OOPDolgozat\OOPDolgozat\bin\Debug\OOPDolgozat.exe.config
+C:\Users\Diák\Desktop\FD_13_S\OOPDolgozat\OOPDolgozat\bin\Debug\OOPDolgozat.exe
+C:\Users\Diák\Desktop\FD_13_S\OOPDolgozat\OOPDolgozat\bin\Debug\OOPDolgozat.pdb
+C:\Users\Diák\Desktop\FD_13_S\OOPDolgozat\OOPDolgozat\obj\Debug\OOPDolgozat.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\FD_13_S\OOPDolgozat\OOPDolgozat\obj\Debug\OOPDolgozat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\Desktop\FD_13_S\OOPDolgozat\OOPDolgozat\obj\Debug\OOPDolgozat.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\FD_13_S\OOPDolgozat\OOPDolgozat\obj\Debug\OOPDolgozat.exe
+C:\Users\Diák\Desktop\FD_13_S\OOPDolgozat\OOPDolgozat\obj\Debug\OOPDolgozat.pdb
